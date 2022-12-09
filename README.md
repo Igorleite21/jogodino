@@ -1,2 +1,2 @@
 # jogodino
-Projeto da faculdade UNINOVE na matéria de jogos. 
+Projeto da faculdade UNINOVE na matéria de jogos digitais.
